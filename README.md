@@ -74,7 +74,7 @@ Howto_Share（ハウトゥシェア）
 | encrypted_password | string | null: false               |
 | birthday           | date   | null: false               |
 | department         | string |                           |
-| message            | text   |
+| one_word           | text   |                           |
 
 ### ASSOCIATION
 - has_one_attached :image （imageはActiveStorageでの実装のため、テーブルに含みません）
