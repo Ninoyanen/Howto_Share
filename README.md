@@ -62,7 +62,7 @@ Howto_Share（ハウトゥシェア）
 
 
 # データベース設計
-![ER図](howto_share_db-1.png)
+![ER図](howto_share_db.png)
 
 
 ## USERS TABLE
